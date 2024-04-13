@@ -35,8 +35,8 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 
 
 ```python
-NAME : PRAGATHEESVARAN AB
-REG NO : 212221240039
+NAME : Sanjay.R
+REG NO : 212222220038
 
 import matplotlib.pyplot as plt
 import pandas as pd
