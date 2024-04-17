@@ -161,7 +161,7 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ### Accuracy, Validation Accuracy Vs Iteration Plot:
 
-![image](https://github.com/EASWAR17/named-entity-recognition/assets/94154683/934ee312-e4d4-4441-aba6-9e9c9ca959e6)
+![image](https://github.com/sanjay3061/named-entity-recognition/assets/121215929/47d194d3-4da1-447b-b154-0a982649b9d3)
 
 ### Sample Text Prediction
 
