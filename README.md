@@ -13,6 +13,7 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 
 4.Bidirectional Recurrent Neural Networks connect two hidden layers of opposite directions to the same output.
 
+![WhatsApp Image 2024-04-17 at 14 51 52_edeec3cd](https://github.com/sanjay3061/named-entity-recognition/assets/121215929/1f7f59a6-a32c-4722-af5b-2ecc7e0d4674)
 
 
 ## DESIGN STEPS
@@ -165,7 +166,7 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ### Sample Text Prediction
 
-![image](https://github.com/EASWAR17/named-entity-recognition/assets/94154683/6032f1e0-2f38-4d13-af18-cc9d8fe8cfdf)
+![image](https://github.com/sanjay3061/named-entity-recognition/assets/121215929/59e2929e-c311-43e8-b335-896b9cc7bb7d)
 
 ## RESULT
 Thus, an LSTM-based model for recognizing the named entities in the text is successfully developed.
